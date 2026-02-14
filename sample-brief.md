@@ -5,6 +5,16 @@
 
 ---
 
+## Market Overview
+
+**Market Size:** The US lawn care services market is approximately **$150 billion** (IBISWorld 2025). There are an estimated **500,000+ small lawn care operators** in the US alone, with similar density in Australia, UK, and Canada.
+
+**Target Segment:** Solo operators and small teams (1-10 employees) doing $50K-$500K annual revenue. This segment is underserved by enterprise tools (too expensive) and overwhelmed by generic small business software (not industry-specific).
+
+> ⚠️ **Research Methodology Note:** This brief draws primarily from forum posts, Reddit threads, and online discussions. Satisfied customers rarely post publicly — these pain points represent *vocal complainers*, not necessarily the majority. Validate with direct customer interviews before making product decisions.
+
+---
+
 ## 1. Where Lawn Care Business Owners Hang Out Online
 
 ### Reddit (High Activity)
