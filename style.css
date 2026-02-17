@@ -355,10 +355,20 @@ footer p {
 
 footer a {
     color: #2563eb;
-    text-decoration: none;
+    text-decoration: underline;  /* A11y: links must be distinguishable without color */
 }
 
 footer a:hover {
+    text-decoration: underline;
+    color: #1d4ed8;
+}
+
+/* A11y: Ensure all links in text blocks have underlines (WCAG 1.4.1) */
+p a, 
+.subtitle a,
+.sample-note a,
+.form-note a,
+.faq-item a {
     text-decoration: underline;
 }
 
