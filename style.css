@@ -255,9 +255,9 @@ p {
     border: none;
 }
 
-.btn-primary {
+.btn-primary, a.btn-primary, a.btn-primary:visited {
     background: #1d4ed8;
-    color: white;
+    color: #ffffff !important;
     text-decoration: underline;  /* WCAG 1.4.1 link identification */
 }
 
