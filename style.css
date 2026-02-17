@@ -256,22 +256,26 @@ p {
 }
 
 .btn-primary {
-    background: #2563eb;
+    background: #1d4ed8;
     color: white;
+    text-decoration: underline;  /* WCAG 1.4.1 link identification */
 }
 
 .btn-primary:hover {
-    background: #1d4ed8;
+    background: #1e40af;
 }
 
 .btn-secondary {
     background: white;
-    color: #2563eb;
-    border: 1px solid #2563eb;
+    color: #1d4ed8;
+    border: 1px solid #1d4ed8;
+    text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 .btn-secondary:hover {
     background: #eff6ff;
+    text-decoration: none;
 }
 
 /* Waitlist form */
